@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Human Resource Sys. Dev.",
+    "projectDesc": "This is our project",
+    "startDate": "1998-01-05",
+    "activities":
+    [
+      {
+        "activityNumber":1,
+        "activityDesc": "Scope project",
+        "startDate": "1998-01-05",
+        "hours": 80,
+        "deliverable": "Scope Document",
+        "tasks" : [
+          {
+            "taskNumber": 1,
+            "taskDesc": "Review existing system",
+            "startDate": "1998-01-05",
+            "hours": 40,
+            "resourceId": 2
+          },
+          {
+            "taskNumber": 2,
+            "taskDesc": "Scope new system",
+            "startDate": "1998-01-19",
+            "hours": 40,
+            "resourceId": 1
+          }
+        ]
+      },
+      {
+        "activityNumber":2,
+        "activityDesc": "Analysis and Design",
+        "startDate": "1998-02-02",
+        "hours": 80,
+        "deliverable": "Anal/Des Doc",
+        "tasks" : [
+          {
+            "taskNumber": 1,
+            "taskDesc": "Analyze requirements",
+            "startDate": "1998-01-05",
+            "hours": 40,
+            "resourceId": 2
+          },
+          {
+            "taskNumber": 3,
+            "taskDesc": "Design solution",
+            "startDate": "1998-01-16",
+            "hours": "40",
+            "resourceId": "3"
+          }
+        ]
+      },
+      {
+        "activityNumber":3,
+        "activityDesc": "Implementation",
+        "startDate": "1998-03-02",
+        "hours": 100,
+        "deliverable": "System",
+        "tasks" : [
+          {
+            "taskNumber": "1",
+            "taskDesc": "Code solution",
+            "startDate": "1998-03-02",
+            "hours": "40",
+            "resourceId": "2"
+          },
+          {
+            "taskNumber": "2",
+            "taskDesc": "Test solution",
+            "startDate": "1998-03-16",
+            "hours": "40",
+            "resourceId": "3"
+          },
+          {
+            "taskNumber": "3",
+            "taskDesc": "Deploy solution",
+            "startDate": "1998-03-30",
+            "hours": "20",
+            "resourceId": "3"
+          }
+        ]
+      }
+    ]
+  }
+]
