@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="views.html.books" />
+    <EXCLUDED_PACKAGE NAME="views.html.home" />
+  </component>
+</application>
