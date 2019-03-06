@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "oguz",
+    "address": "iyte",
+    "savings": 12.0,
+    "phoneNumber": "12",
+    "emailAddress": "12",
+    "password": "12"
+  },
+  {
+    "id": 1,
+    "name": "burcu",
+    "address": "iyte",
+    "savings": 12.0,
+    "phoneNumber": "1",
+    "emailAddress": "12",
+    "password": "123"
+  },
+  {
+    "id": 1,
+    "name": "bhan",
+    "address": "iyte",
+    "savings": 12.0,
+    "phoneNumber": "12",
+    "emailAddress": "12",
+    "password": "123"
+  },
+  {
+    "id": 1,
+    "name": "ece",
+    "address": "iyte",
+    "savings": 12.0,
+    "phoneNumber": "12",
+    "emailAddress": "12",
+    "password": "1q2w"
+  },
+  {
+    "id": 1,
+    "name": "folkart",
+    "address": " bayrakli",
+    "savings": 12.0,
+    "phoneNumber": "12",
+    "emailAddress": "12",
+    "password": "123"
+  }
+]
